@@ -20,8 +20,3 @@
 2. Pengguna dapat menambah, mengedit, atau menghapus kontak.
 3. Data otomatis tersimpan dan dapat diambil kembali saat aplikasi dibuka.
 4. Jika terhubung API, data disinkronkan ke server.
-
-##  Flowchart Email Address Book
-
-
-![Flowchart](assets/flowchart-email-book.png)
